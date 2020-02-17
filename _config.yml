@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: '独玖-'
-description: '不哭不闹，独自走过属于我的玖月~'
+description: ''
 keywords: 'C++,Java,Git'
 url: 'https://ianDuJiu.github.io' # your host
 
@@ -25,7 +25,7 @@ portraits: 'https://s2.ax1x.com/2020/02/17/3CMkIx.jpg' # your portraits image fi
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:momonorthy2008@outlook.com'
+  mail: 
   weixin: '' # 你的微信二维码存放的地址
   qq: 'http://wpa.qq.com/msgrd?v=3&uin='2441101267'&site=qq&menu=yes'
   github: 'https://github.com/iamDuJiu/'
