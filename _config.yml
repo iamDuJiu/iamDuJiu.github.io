@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: 'your awesome title'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
-url: 'https://abc.github.io' # your host
+title: '独玖-'
+description: '不哭不闹，独自走过属于我的玖月~'
+keywords: 'C++,Java,Git'
+url: 'https://ianDuJiu.github.io' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
@@ -14,21 +14,21 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'your awesome name'
-NickName: 'your awesome nickname'
-webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
+name: '独玖-'
+NickName: '独玖-'
+webtitle: '独玖-'
+bio: '不哭不闹，独自走过属于我的玖月~'
 about: true
-aboutyou: 'your introduction'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+aboutyou: '不哭不闹，独自走过属于我的玖月~'
+portraits: 'https://s2.ax1x.com/2020/02/17/3CMkIx.jpg' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
+  mail: 'mailto:momonorthy2008@outlook.com'
   weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
+  qq: 'http://wpa.qq.com/msgrd?v=3&uin='2441101267'&site=qq&menu=yes'
+  github: 'https://github.com/iamDuJiu/'
   Codepen: ''
   weibo: ''
   instagram: ''
